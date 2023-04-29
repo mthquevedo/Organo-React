@@ -1,3 +1,13 @@
+## Aplicação construída em React para criar organogrâmas e auxiliar na gestão de colaboradores
+
+Protótipo: https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128
+
+As tecnologias utilizadas foram:
+* React;
+* HTML;
+* CSS;
+* JavaScript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
