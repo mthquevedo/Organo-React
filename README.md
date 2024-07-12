@@ -1,4 +1,4 @@
-## Aplicação construída em React para criar organogrâmas e auxiliar na gestão de colaboradores
+## Aplicação construída em React para criar organogramas e auxiliar na gestão de colaboradores
 
 Protótipo: https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128
 
